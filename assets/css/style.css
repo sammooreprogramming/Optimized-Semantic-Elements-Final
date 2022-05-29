@@ -8,8 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Removing the periods within the header so that CSS recognizes the new semantic elements
-'header', 'h1', 'seo','nav','ul', and 'li' are properly recognized. */
+/* Removing the periods within the header that occured before changing the non-semantic elements in index.html to semantic elements allow CSS to recognize 
+'header', 'h1','nav','ul', and 'li' as valid terms, thus the program is aesthetically the same, but utilizes the requested semantic elements. */
 
 header {
     padding: 20px;
@@ -52,7 +52,7 @@ a {
 p {
     font-size: 16px;
 }
-/*end header */
+
 
 /*begin hero*/
 .hero {
