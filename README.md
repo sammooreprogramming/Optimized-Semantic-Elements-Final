@@ -18,7 +18,3 @@ http://localhost:52330/index.html
 Here is the github link-
 
 https://github.com/sammooreprogramming/Optimizing-Semantic-Elements
-
-
-Screenshot- ![](SCREENSHOT.jpg)
-
