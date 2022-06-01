@@ -16,7 +16,6 @@ Here is the finished webpage's url-
 http://localhost:52330/index.html#social-media-marketing
 
 
-
 Here is the github link-
 
 https://github.com/sammooreprogramming/Optimizing-Semantic-Elements
