@@ -18,3 +18,5 @@ https://sammooreprogramming.github.io/Optimizing-Semantic-Elements/#search-engin
 Here is the github link-
 
 https://github.com/sammooreprogramming/Optimizing-Semantic-Elements
+
+https://github.com/sammooreprogramming/Optimizing-Semantic-Elements/blob/main/Screenshot.jpg
