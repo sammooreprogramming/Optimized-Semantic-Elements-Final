@@ -12,7 +12,7 @@ All criteria have been met.
 Here is the finished webpage's url-
 
 
-http://localhost:52330/index.html
+https://sammooreprogramming.github.io/Optimizing-Semantic-Elements/#search-engine-optimization
 
 
 Here is the github link-
