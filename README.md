@@ -20,4 +20,5 @@ Here is the github link-
 https://github.com/sammooreprogramming/Optimizing-Semantic-Elements
 
 SCREENSHOT-
+
 https://github.com/sammooreprogramming/Optimizing-Semantic-Elements/blob/main/Screenshot.jpg
