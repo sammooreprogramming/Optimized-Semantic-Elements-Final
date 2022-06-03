@@ -9,10 +9,10 @@ All links function properly.
 
 All criteria have been met.
 
-Here is the finished webpage's url-
+Here is the deployed webpage's url-
 
 
-https://sammooreprogramming.github.io/Optimizing-Semantic-Elements/#search-engine-optimization
+https://sammooreprogramming.github.io/Optimizing-Semantic-Elements
 
 
 Here is the github link-
